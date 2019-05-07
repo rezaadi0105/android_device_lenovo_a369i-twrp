@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/device_Yaris_M_GSM.mk
+    $(LOCAL_DIR)/omni_a369i.mk

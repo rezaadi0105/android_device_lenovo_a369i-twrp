@@ -2,7 +2,6 @@
 # system.prop for Yaris_M_GSM
 #
 service.adb.root=1
-ro.sf.lcd_density=220
 wifi.interface=wlan0
 persist.mtk.aee.aed=on
 persist.radio.fd.counter=15
